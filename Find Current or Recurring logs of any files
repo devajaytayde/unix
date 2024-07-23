@@ -1,0 +1,9 @@
+#Find Current Log of any file 
+
+tail -n -s-<Num of rows> <filename>
+
+
+
+#Find Recurring Log of any file 
+
+tail -r -<Num of rows> <filename>
