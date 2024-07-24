@@ -1,0 +1,17 @@
+1..Search file name using Pattern in any file/directory
+grep <pattern> <filename or any path or leave if searching in same folder>
+
+2..Invert Match for non-matching lines  -v
+grep -v <pattern> 
+
+3..Silent search using -q and to get result , use echo $? for result
+
+grep -q <pattern>
+
+Here no output will be shown , wheather found or not found
+
+Later, run echo $?
+  if result if found,above command will display 1
+  else display 0
+
+4..
