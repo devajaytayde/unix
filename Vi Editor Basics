@@ -12,6 +12,20 @@ To delete from specific line to bottom                       - Enter ":3,$d"
 
 To delete from 3rd line from Top to 2nd line from bottom     - Enter ":3,$-2d"
 
-To undo any action                                           - Press "dd" or Enter ":u" or ":undo"
+To undo any action                                           - Press "u" or Enter ":u" or ":undo"
+
+To undo last 4 action                                        - Press "4u" or Enter ":4u" or ":4undo"
+
+To redo any action                                           - Press "r" or Enter ":r" or ":redo"
+
+To redo last 4 action                                        - Press "4r" or Enter ":4r" or ":4redo"
+
+To undo any command to move backworth                        - Enter ":earlier"
+
+To undo any command to move forward                          - Enter ":later"
+
+To undo any command to move backworth 10 min/sec/hr in time  - Enter ":earlier 10m" or ":earlier 10s" or ":earlier 10h"
+
+To undo any command to move forward 5 min/sec/hr in time    - Enter ":later 5m" or ":later 5s" or ":later 5h"
 
 
