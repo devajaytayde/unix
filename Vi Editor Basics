@@ -1,5 +1,9 @@
 To edit or create a file                                     - vi <existing or new filename>
 
+To search in vi editor                                       - Enter "/pattern to search" 
+
+To search in next or previous occurance in search            - Press "n" for next occurrance, "N" for previous occurance 
+
 To enable editing mode of launched file                      - Press "i"
 
 To disable editing mode and go to Command mode               - Press "Escape"
