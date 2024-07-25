@@ -1,0 +1,14 @@
+To edit or create a file                                     - vi <existing or new filename>
+
+To enable editing mode of launched file                      - Press "i"
+
+To disable editing mode and go to Command mode               - Press "Escape"
+
+To delete any single line                                    - Press "dd"
+
+To delete all lines                                          - Enter ":1,$d" or ":%d"
+
+To delete from specific line to bottom                       - Enter ":3,$d"
+
+To delete from 3rd line from Top to 2nd line from bottom     - Enter ":3,$-2d"
+
