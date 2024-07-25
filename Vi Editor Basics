@@ -4,6 +4,10 @@ To search in vi editor                                       - Enter "/pattern t
 
 To search in next or previous occurance in search            - Press "n" for next occurrance, "N" for previous occurance 
 
+To search in next or previous occurance in search            - Press "n" for next occurrance, "N" for previous occurance 
+
+To search for whole word                                     - Enter "/\<word to search/>"
+
 To enable editing mode of launched file                      - Press "i"
 
 To disable editing mode and go to Command mode               - Press "Escape"
