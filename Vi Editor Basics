@@ -12,3 +12,6 @@ To delete from specific line to bottom                       - Enter ":3,$d"
 
 To delete from 3rd line from Top to 2nd line from bottom     - Enter ":3,$-2d"
 
+To undo any action                                           - Press "dd" or Enter ":u" or ":undo"
+
+
